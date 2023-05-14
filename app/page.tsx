@@ -24,7 +24,7 @@ export default function Home() {
 
         <PostHero />
 
-        <div className="h-16"></div>
+        <div className="h-10"></div>
 
         <p className="text-3xl mb-6">Recent Posts</p>
         <div className="grid md:grid-cols-2 grid-cols-1 mx-auto md:gap-32 gap-8">
